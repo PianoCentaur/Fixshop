@@ -54,4 +54,5 @@ FixShop stavia na hodnotách:
 - **dlhodobé vzťahy so zákazníkmi**  
 """)
 
-st.info("Táto stránka je súčasťou analytického dashboardu FixShop – prezentuje základné informácie o podniku.")
+
+
